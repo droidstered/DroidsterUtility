@@ -1,8 +1,6 @@
 package me.droidsterutility;
 
-/**
- * Created by Piyush on 29-12-2017.
- */
+
 
 import android.app.Activity;
 import android.app.AlertDialog;
