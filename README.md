@@ -19,7 +19,19 @@
 	      compile 'com.github.droidster1989:DroidsterUtilityDemo:1.0'
 	}
 	
->Step 3. Add the dependency:
+>Step 3. All Functions Name:
+
+	1) customLogV
+	
+		Use : Util.customLogV("tag","print message");
+		
+	2) customToast
+	
+		Use : Util.customToast(this,"print message");
+	
+	3) getFormatedDate
+	
+		Use : Util.getFormatedDate(secondinlong,"dd MMM yyyy hh:mm");
 
 
 
