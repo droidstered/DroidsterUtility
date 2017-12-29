@@ -16,7 +16,7 @@
 >Step 2. Add the dependency:
   
   	dependencies {
-	      compile 'com.github.droidstered:DroidsterUtilityDemo:1.0'
+	      compile 'com.github.droidstered:DroidsterUtility:1.0'
 	}
 	
 >Step 3. All Functions Name:
